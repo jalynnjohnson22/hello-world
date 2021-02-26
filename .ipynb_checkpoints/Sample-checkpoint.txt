@@ -1,0 +1,1 @@
+I am learning how to code in Python. This is confusing sometimes (especially because I am toggling between Python and Java.) I hope it sticks.
